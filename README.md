@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Competitive Programming**
-
 - 📫 How to reach me **himanshusharma12.09.2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
